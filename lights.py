@@ -1,4 +1,4 @@
-Three lights Demo on and off
+#Three lights Demo on and off
 import RPi.GPIO as GPIO,time
 
 GPIO.setmode(GPIO.BCM)
